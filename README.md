@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# projeto-consultas-SQL
-=======
 # Projeto SQL
 
 Nesse projeto desenvolvemos consultas utilizando MySQL com o intuido de responder as perguntas listadas abaixo. Nossos dados se encontram na pasta _dados_. 
@@ -21,6 +18,3 @@ Nossos dados, contém informações de vendas de produtos, onde entre as informa
 > 5 - Qual o total de vendas realizadas por categoria?
 >
 > 6 - Qual categoria vendeu mais? Qual categoria vendeu menos?
-
-
->>>>>>> ca742eb (Adiciona projeto consultas SQL)
